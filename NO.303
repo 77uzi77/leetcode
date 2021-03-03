@@ -19,6 +19,7 @@ class NumArray {
     }
 }
 优化解法：
+利用前缀和
 class NumArray {
     int[] sums;
 
